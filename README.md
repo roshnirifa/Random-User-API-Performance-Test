@@ -3,7 +3,7 @@
 ## Project Summery
 This project is automate Random user API Performance Test. 
 In this project we test the Trsanction Per Second (TPS) 
-and then we did stress test
+and then we did stress test.
 
 ## Techonology Used
 - Jmeter
